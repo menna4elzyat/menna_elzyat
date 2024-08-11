@@ -19,15 +19,19 @@
 
 ### Connect with Me :
 
-<a href="[[https://www.linkedin.com/in/menna-elzyat-6021a5274/](https://www.linkedin.com/in/menna-elzyat-6021a5274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/menna-elzyat-6021a5274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-menna%20elzyat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/menna-elzyat-6021a5274?" target="_blank"><img src="https://img.shields.io/badge/-menna%20elzyat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:elzyatmenna4@gmail.com)](mailto:elzyatmenna48@gmail.com)
 
-
-
-### 🛠 &nbsp;Tech Stack
-
+#### Programming Languages:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![dart](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=dart3&logoColor=1572B6)&nbsp;
+![c++](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=c++3&logoColor=1572B6)&nbsp;
+
+### 🛠 &nbsp;Tech 
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
