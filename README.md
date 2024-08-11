@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Development%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=flutter-Development%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00DF67&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm software engineer
@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/menna-elzyat-6021a5274/](https://www.linkedin.com/in/menna-elzyat-6021a5274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Shaban-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[[https://www.linkedin.com/in/menna-elzyat-6021a5274/](https://www.linkedin.com/in/menna-elzyat-6021a5274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/menna-elzyat-6021a5274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Shaban-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:elzyatmenna4@gmail.com)](mailto:elzyatmenna48@gmail.com)
 
 
